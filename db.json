@@ -1,3 +1,105 @@
 {
-  "meghna": 1
+  "credentials": {
+    "username": "bhagyashree.srivastava@daffodilsw.com",
+    "password": "Hrhk@1234"
+  },
+  "user": {
+    "data": [
+      {
+        "_id": "5dfb13755c9a9041eb93b251",
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            77.0562783,
+            28.4649972
+          ]
+        },
+        "firstName": "Pragyanshu",
+        "lastName": "Sharma",
+        "jobTitle": "Software Engineer",
+        "tagline": "Time is Money.",
+        "isFilledRequiredFields": true,
+        "emailVerified": true,
+        "isDeleted": false,
+        "additionalImages": [
+          {
+            "url": "https://firelabbucket.s3.amazonaws.com/d98b6df0-05d0-42a3-a18b-d3488e7cdee1",
+            "metaData": {
+              "mimeType": "video/mp4",
+              "fileSize": 788493,
+              "fileName": "mov_bbb.mp4"
+            }
+          }
+        ],
+        "alumni": [
+          "Stanford University"
+        ],
+        "company": "Google",
+        "linkedInId": null,
+        "isSocialLogin": false,
+        "lastActive": "2020-02-25T07:37:15.000Z",
+        "contactGroup": [],
+        "interestActivities": [
+          "Swimming"
+        ],
+        "organisationGroups": [
+          "ANONYMUS"
+        ],
+        "languages": [
+          "ENGLISH"
+        ],
+        "businessAddress": "NY-city California U.S",
+        "businessPhone": "9838393948",
+        "website": "www.google.com",
+        "industry": [
+          "IT-industry"
+        ],
+        "email": "pragyanshu.sharma@daffodilsw.com",
+        "createdAt": "2019-12-19T06:06:45.194Z",
+        "updatedAt": "2020-02-25T07:37:15.537Z",
+        "__v": 0,
+        "bio": "I am a software engineer.\nskdjfdsf\ndsnkjfbsd\n\n\ndshf",
+        "buisnessLogo": {
+          "url": "https://firelabbucket.s3.amazonaws.com/d98b6df0-05d0-42a3-a18b-d3488e7cdee1",
+          "metaData": {
+            "mimeType": "video/mp4",
+            "fileSize": 788493,
+            "fileName": "mov_bbb.mp4"
+          }
+        },
+        "profileImage": {
+          "url": "https://firelabbucket.s3.amazonaws.com/d98b6df0-05d0-42a3-a18b-d3488e7cdee1",
+          "metaData": {
+            "mimeType": "video/mp4",
+            "fileSize": 788493,
+            "fileName": "mov_bbb.mp4"
+          }
+        },
+        "peek": {
+          "value": "lol",
+          "placeHolder": "INTEREST"
+        },
+        "stripeUserId": "cus_GYyV18GDoNIqBT",
+        "isBlocked": false,
+        "isShowNearby": true,
+        "elevatorVideoUrl": "https://youtu.be/_tNU6dpjIyM",
+        "isContact": true,
+        "sentRequest": {
+          "requestStatus": "accepted"
+        },
+        "sentReq": [
+          {
+            "requestStatus": "accepted",
+            "requestBy": "5dfb13755c9a9041eb93b251"
+          },
+          {
+            "requestStatus": "accepted",
+            "requestBy": "5dfb13755c9a9041eb93b251"
+          }
+        ],
+        "isLocationActive": true,
+        "totalUnreadMessages": 3
+      }
+    ]
+  }
 }
